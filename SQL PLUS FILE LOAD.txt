@@ -1,0 +1,22 @@
+@C:\Nico\Abastecimientos\20150102\scupos.sql
+
+@C:\Nico\Aut.Balance\20111221
+
+spool C:\log.txt
+
+spool C:\log.txt|OFF
+
+@D:\Nico\MIF\20130730\saldos.sql
+
+@E:\Nico\MIF\20140909\MIF.sql
+
+@C:\Nico\snis\CasosPrueba\MantenimientosMetas20160211.sql
+
+@C:\Nico\snis\20170803\rpr201707.sql
+
+@C:\Nico\KSEFI\20171122\asiento1.sql
+
+spool C:\Nico\log.txt
+
+spool C:\Nico\log.txt|OFF
+spool C:\Nico\log2.txt|OFF
